@@ -54,3 +54,26 @@ The application allows users to dynamically generate quantum circuits, run simul
 ### 1. Install dependencies
 ```bash
 pip install -r requirements.txt
+```
+
+### 2. Run the application
+```bash
+python main.py
+```
+
+---
+
+## 🎯 Objective
+To build a practical and interactive tool for understanding and visualizing core quantum computing algorithms.
+
+---
+
+## 📌 Future Improvements
+- Add advanced algorithms (Quantum Fourier Transform, Shor’s Algorithm)  
+- Improve GUI design and user experience  
+- Deploy as a web-based quantum simulator  
+
+---
+
+## 📬 Contact
+- LinkedIn: https://www.linkedin.com/in/ayushman-singh-444902283/
