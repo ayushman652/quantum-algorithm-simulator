@@ -60,7 +60,21 @@ pip install -r requirements.txt
 ```bash
 python main.py
 ```
+## 🔎 Grover’s Algorithm Demo
 
+This example demonstrates Grover’s Algorithm for a 3-qubit system where the target state is **111**.
+
+### 🖥️ GUI Interface
+![Grover GUI](screenshots/grover_gui.png)
+
+### 🔬 Quantum Circuit
+![Grover Circuit](screenshots/grover_circuit.png)
+
+### 📊 Output Histogram
+![Grover Output](screenshots/grover_histogram.png)
+
+### 🧠 Result Explanation
+![Grover Result](screenshots/grover_result.png)
 ---
 
 ## 🎯 Objective
